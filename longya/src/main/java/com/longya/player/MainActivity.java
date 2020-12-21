@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
     private FrameLayout flSplash;
     private TextView tvTimeJump;
-    private int i = 6;
+    private int i = 3;
     @SuppressLint("HandlerLeak")
     Handler handler = new Handler() {
         @Override
@@ -59,6 +59,26 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
+
+    private void refresh() {
+        String url = "http://www.360jrs.net/index.html?ue=android";
+        SharedPreferences sharedPreferences = getSharedPreferences("userInfo", MODE_PRIVATE);
+        String userName = sharedPreferences.getString("longya_username", "");
+        String password = sharedPreferences.getString("longya_password", "");
+        String action = sharedPreferences.getString("action", "");
+        if (TextUtils.isEmpty(userName) || TextUtils.isEmpty(password)) {
+            if (action.equals("logout")) {
+                url += "&action=logout";
+            }
+            webView.loadUrl(url);
+            Toast.makeText(this, "当前加载网址：" + url, Toast.LENGTH_LONG).show();
+        } else {
+            webView.loadUrl(url + "&username=" + userName + "&password=" + password + "&action=" + action);
+            Log.i("aaaa", "url: " + url + "&username=" + userName + "&password=" + password+ "&action=" + action);
+            Toast.makeText(this, "当前加载网址：" + url + "&username=" + userName + "&password=" + password+ "&action=" + action, Toast.LENGTH_LONG).show();
+        }
+
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,16 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
         //webView.loadUrl("file:///android_asset/protocol.htm");//加载asset文件夹下html
 
-        String url = "http://www.360jrs.net/index.html?ue=android";
-        SharedPreferences sharedPreferences = getSharedPreferences("userInfo", MODE_PRIVATE);
-        String userName = sharedPreferences.getString("longya_username", "");
-        String password = sharedPreferences.getString("longya_password", "");
-        if (TextUtils.isEmpty(userName) || TextUtils.isEmpty(password)) {
-            webView.loadUrl(url);
-        } else {
-            webView.loadUrl(url + "&username=" + userName + "&password=" + password);
-            Log.i("aaaa", "url: " + url + "&username=" + userName + "&password=" + password);
-        }
+        refresh();
 
 
         //使用webview显示html代码
@@ -168,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 super.run();
                 //执行三秒跳转
-                while (i <= 6) {
+                while (i <= 3) {
                     i--;
                     Message msg = new Message();
                     msg.obj = i;
@@ -182,8 +193,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         }.start();
-
-
     }
 
 
@@ -288,7 +297,15 @@ public class MainActivity extends AppCompatActivity {
                 SharedPreferences.Editor editor = sharedPreferences.edit();
                 editor.putString("longya_username", actionBean.getLongya_username());
                 editor.putString("longya_password", actionBean.getLongya_password());
+                editor.putString("action", actionBean.getAction());
                 editor.apply();
+                webView.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        refresh();
+                    }
+                });
+
             }
 
         }
@@ -296,11 +313,34 @@ public class MainActivity extends AppCompatActivity {
         @JavascriptInterface
         public void postLogoutMessage(String str) {
             Log.i("postMessage", "str:" + str);
-            SharedPreferences sharedPreferences = getSharedPreferences("userInfo", MODE_PRIVATE);
-            SharedPreferences.Editor editor = sharedPreferences.edit();
-            editor.putString("longya_username", "");
-            editor.putString("longya_password", "");
-            editor.apply();
+            Log.i("postMessage", "str:" + str);
+            ActionBean actionBean = null;
+            try {
+                actionBean = JSONObject.parseObject(str, ActionBean.class);
+            } catch (Exception e) {
+                e.printStackTrace();
+                webView.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(context, "参数转换错误", Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+            if (actionBean != null) {
+                SharedPreferences sharedPreferences = getSharedPreferences("userInfo", MODE_PRIVATE);
+                SharedPreferences.Editor editor = sharedPreferences.edit();
+                editor.putString("longya_username", "");
+                editor.putString("longya_password", "");
+                editor.putString("action", actionBean.getAction());
+                editor.apply();
+                webView.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        refresh();
+                    }
+                });
+            }
+
         }
 
     }

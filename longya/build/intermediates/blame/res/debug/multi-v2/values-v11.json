@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_ssv7fk2trojd21\\FileStorage\\File\\2020-12\\longya_release_code\\longya_release\\longya\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\MyPc\\StudioProjects\\longya\\longya\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f31cb847e5eaca7c5ae743abdaa22b1f\\appcompat-v7-25.0.1\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\MyPc\\.gradle\\caches\\transforms-2\\files-2.1\\f31cb847e5eaca7c5ae743abdaa22b1f\\appcompat-v7-25.0.1\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,40,41,46,51,56,58,60,61,62,115,169",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

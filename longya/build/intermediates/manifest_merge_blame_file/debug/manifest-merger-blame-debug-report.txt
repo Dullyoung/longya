@@ -6,132 +6,132 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+8-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="24" />
-9-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+9-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:7:5-68
-12-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:7:22-65
+12-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:7:5-68
+12-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:7:22-65
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:8:5-79
-13-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:8:22-76
+13-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:8:22-76
 14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-14-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:9:5-76
-14-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:9:22-73
+14-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:9:5-76
+14-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:9:22-73
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:10:5-81
-15-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:10:22-78
+15-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:10:22-78
 16    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
-16-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:11:5-13:47
-16-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:12:9-68
+16-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:11:5-13:47
+16-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:12:9-68
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:14:5-80
-17-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:14:22-77
+17-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:14:5-80
+17-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:14:22-77
 18    <uses-permission android:name="android.permission.BATTERY_STATS" />
-18-->[:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-72
-18-->[:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-69
+18-->[:playerview] C:\Users\MyPc\StudioProjects\longya\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-72
+18-->[:playerview] C:\Users\MyPc\StudioProjects\longya\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-69
 19
 20    <application
-20-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:16:5-67:23
+20-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:16:5-67:23
 21        android:name="com.longya.player.App"
-21-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:17:9-45
+21-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:17:9-45
 22        android:allowBackup="true"
-22-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:18:9-35
+22-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:18:9-35
 23        android:debuggable="true"
 24        android:icon="@mipmap/ic_launcher"
-24-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:19:9-43
+24-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:19:9-43
 25        android:label="@string/app_name"
-25-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:20:9-41
+25-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:20:9-41
 26        android:supportsRtl="true"
-26-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:21:9-35
+26-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:21:9-35
 27        android:testOnly="true"
 28        android:theme="@style/AppTheme" >
-28-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:22:9-40
+28-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:22:9-40
 29        <activity
-29-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:24:9-28:75
+29-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:24:9-28:75
 30            android:name="com.longya.player.wxapi.WXEntryActivity"
-30-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:25:13-67
+30-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:25:13-67
 31            android:configChanges="keyboardHidden|orientation|screenSize"
-31-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:26:13-74
+31-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:26:13-74
 32            android:exported="true"
-32-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:27:13-36
+32-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:27:13-36
 33            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-33-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:28:13-72
+33-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:28:13-72
 34        <activity
-34-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:30:9-39:20
+34-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:30:9-39:20
 35            android:name="com.longya.player.MainActivity"
-35-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:31:13-58
+35-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:31:13-58
 36            android:launchMode="singleTask"
-36-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:32:13-44
+36-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:32:13-44
 37            android:screenOrientation="portrait" >
-37-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:33:13-49
+37-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:33:13-49
 38            <intent-filter>
-38-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:34:13-38:29
+38-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:34:13-38:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:35:17-69
-39-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:35:25-66
+39-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:35:17-69
+39-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:35:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:37:17-77
-41-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:37:27-74
+41-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:37:17-77
+41-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:37:27-74
 42            </intent-filter>
 43        </activity>
 44        <activity
-44-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:40:9-45:70
+44-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:40:9-45:70
 45            android:name="com.longya.player.IjkPlayerActivity"
-45-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:41:13-63
+45-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:41:13-63
 46            android:configChanges="orientation|keyboardHidden|screenSize"
-46-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:42:13-74
+46-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:42:13-74
 47            android:launchMode="singleTask"
-47-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:43:13-44
+47-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:43:13-44
 48            android:screenOrientation="portrait"
-48-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:44:13-49
+48-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:44:13-49
 49            android:windowSoftInputMode="adjustResize|stateHidden" />
-49-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:45:13-67
+49-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:45:13-67
 50        <activity android:name="com.longya.player.IjkFullscreenActivity" />
-50-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:46:9-76
-50-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:46:19-73
+50-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:46:9-76
+50-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:46:19-73
 51        <activity
-51-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:47:9-49:77
+51-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:47:9-49:77
 52            android:name="com.longya.player.TestAspectActivity"
-52-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:48:13-64
+52-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:48:13-64
 53            android:configChanges="orientation|keyboardHidden|screenSize" />
-53-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:49:13-74
+53-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:49:13-74
 54        <activity
-54-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:50:9-53:70
+54-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:50:9-53:70
 55            android:name="com.longya.player.CustomDanmakuActivity"
-55-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:51:13-67
+55-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:51:13-67
 56            android:configChanges="orientation|keyboardHidden|screenSize"
-56-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:52:13-74
+56-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:52:13-74
 57            android:windowSoftInputMode="adjustResize|stateHidden" />
-57-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:53:13-67
+57-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:53:13-67
 58        <activity
-58-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:54:9-56:77
+58-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:54:9-56:77
 59            android:name="com.longya.player.SwitchVideoActivity"
-59-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:55:13-65
+59-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:55:13-65
 60            android:configChanges="orientation|keyboardHidden|screenSize" />
-60-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:56:13-74
+60-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:56:13-74
 61
 62        <provider
-62-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:58:9-66:20
+62-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:58:9-66:20
 63            android:name="android.support.v4.content.FileProvider"
-63-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:59:13-67
+63-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:59:13-67
 64            android:authorities="com.longya.player.WXFileProvider"
-64-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:60:13-67
+64-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:60:13-67
 65            android:exported="false"
-65-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:61:13-37
+65-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:61:13-37
 66            android:grantUriPermissions="true" >
-66-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:62:13-47
+66-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:62:13-47
 67            <meta-data
-67-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:63:13-65:54
+67-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:63:13-65:54
 68                android:name="android.support.FILE_PROVIDER_PATHS"
-68-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:64:17-67
+68-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:64:17-67
 69                android:resource="@xml/file_paths" />
-69-->C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:65:17-51
+69-->C:\Users\MyPc\StudioProjects\longya\longya\src\main\AndroidManifest.xml:65:17-51
 70        </provider>
 71    </application>
 72
