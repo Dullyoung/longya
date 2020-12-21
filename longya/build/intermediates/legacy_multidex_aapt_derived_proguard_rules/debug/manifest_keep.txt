@@ -1,0 +1,1 @@
+-keep class com.longya.player.App { <init>(); }

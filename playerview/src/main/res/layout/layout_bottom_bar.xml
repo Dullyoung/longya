@@ -146,6 +146,6 @@
             android:layout_marginRight="5dp"
             android:background="@drawable/sel_item_background"
             android:padding="5dp"
-            android:src="@drawable/sel_btn_fullscreen"/>
+            android:src="@drawable/sel_btn_fullscreen" />
     </LinearLayout>
 </merge>

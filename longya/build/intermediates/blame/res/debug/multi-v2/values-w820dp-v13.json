@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_ssv7fk2trojd21\\FileStorage\\File\\2020-12\\longya_release_code\\longya_release\\longya\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_ssv7fk2trojd21\\FileStorage\\File\\2020-12\\longya_release_code\\longya_release\\longya\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

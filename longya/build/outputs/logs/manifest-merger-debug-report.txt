@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e759dcbef7c14dd9068a166edc03330\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff7f1315dc0c85cf1f93122d0915e0b5\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d06b12dae680e30de1f5a27720bd0ef\design-24.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fae9f2c2bea0cee28904731f4227bb\TagLayout-1.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e617c712a18b504f9dbb949727f9216\cardview-v7-24.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.umeng.umsdk:asms:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b3cee8774d5e871adb3a132e248863a3\asms-1.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:2:1-16:12
+MERGED from [com.umeng.umsdk:share-board:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17ac88625490b196165a3ba26ee32c35\share-board-7.1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff080518cb8d403852d52a4eaf8f371c\animated-vector-drawable-25.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8d95c424daf15139b52246df6f70f89\support-vector-drawable-25.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a93179c036dd3b5a5af40c7f83e9cfac\support-v4-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9bc0be0a7cd6b281c790a4f8b26d2a5\recyclerview-v7-24.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3a1c56e262637f00ccd3b296a1f60ae6\support-fragment-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3190d85f3ee44a998f93982e76b9d4a4\support-core-ui-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7521d5ed3dab3badaad52b09bb2d6777\support-media-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\67a2f0134cfbdae966604a41af90f11e\support-core-utils-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f30c6719bf7f52b4b956862403db3ee\support-compat-25.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f02ae33d6e9b5c942f94bf1158b0566f\ijkplayer-java-0.7.8.1\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4ee257f2d2d430197d6528a7831430c0\ijkplayer-armv7a-0.7.8.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8939121e591853ac4d30c2ad187b451\DanmakuFlameMaster-0.6.2\AndroidManifest.xml:17:1-26:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:7:5-68
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-79
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:9:5-76
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:11:5-76
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:11:5-13:47
+	tools:ignore
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:12:9-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:16:5-67:23
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e759dcbef7c14dd9068a166edc03330\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e759dcbef7c14dd9068a166edc03330\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d06b12dae680e30de1f5a27720bd0ef\design-24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d06b12dae680e30de1f5a27720bd0ef\design-24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fae9f2c2bea0cee28904731f4227bb\TagLayout-1.0.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fae9f2c2bea0cee28904731f4227bb\TagLayout-1.0.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e617c712a18b504f9dbb949727f9216\cardview-v7-24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e617c712a18b504f9dbb949727f9216\cardview-v7-24.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:13:5-14:19
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:13:5-14:19
+MERGED from [com.umeng.umsdk:share-board:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17ac88625490b196165a3ba26ee32c35\share-board-7.1.3\AndroidManifest.xml:9:5-10:19
+MERGED from [com.umeng.umsdk:share-board:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17ac88625490b196165a3ba26ee32c35\share-board-7.1.3\AndroidManifest.xml:9:5-10:19
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:11:5-17:19
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff080518cb8d403852d52a4eaf8f371c\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff080518cb8d403852d52a4eaf8f371c\animated-vector-drawable-25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8d95c424daf15139b52246df6f70f89\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8d95c424daf15139b52246df6f70f89\support-vector-drawable-25.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a93179c036dd3b5a5af40c7f83e9cfac\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a93179c036dd3b5a5af40c7f83e9cfac\support-v4-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3a1c56e262637f00ccd3b296a1f60ae6\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3a1c56e262637f00ccd3b296a1f60ae6\support-fragment-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3190d85f3ee44a998f93982e76b9d4a4\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3190d85f3ee44a998f93982e76b9d4a4\support-core-ui-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7521d5ed3dab3badaad52b09bb2d6777\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7521d5ed3dab3badaad52b09bb2d6777\support-media-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\67a2f0134cfbdae966604a41af90f11e\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\67a2f0134cfbdae966604a41af90f11e\support-core-utils-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f30c6719bf7f52b4b956862403db3ee\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f30c6719bf7f52b4b956862403db3ee\support-compat-25.0.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:17:9-45
+activity#com.longya.player.wxapi.WXEntryActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:24:9-28:75
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:12:9-16:75
+	android:exported
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:27:13-36
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:26:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:25:13-67
+activity#com.longya.player.MainActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:33:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:31:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:37:27-74
+activity#com.longya.player.IjkPlayerActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:40:9-45:70
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:44:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:43:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:45:13-67
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:41:13-63
+activity#com.longya.player.IjkFullscreenActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:46:9-76
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:46:19-73
+activity#com.longya.player.TestAspectActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:47:9-49:77
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:48:13-64
+activity#com.longya.player.CustomDanmakuActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:50:9-53:70
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:53:13-67
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:51:13-67
+activity#com.longya.player.SwitchVideoActivity
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:54:9-56:77
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:55:13-65
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:58:9-66:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:62:13-47
+	android:authorities
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:60:13-67
+	android:exported
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:59:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:63:13-65:54
+	android:resource
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:65:17-51
+	android:name
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml:64:17-67
+uses-sdk
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e759dcbef7c14dd9068a166edc03330\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3e759dcbef7c14dd9068a166edc03330\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff7f1315dc0c85cf1f93122d0915e0b5\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff7f1315dc0c85cf1f93122d0915e0b5\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d06b12dae680e30de1f5a27720bd0ef\design-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2d06b12dae680e30de1f5a27720bd0ef\design-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fae9f2c2bea0cee28904731f4227bb\TagLayout-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Rukey7:TagLayout:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\93fae9f2c2bea0cee28904731f4227bb\TagLayout-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e617c712a18b504f9dbb949727f9216\cardview-v7-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5e617c712a18b504f9dbb949727f9216\cardview-v7-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.umeng.umsdk:asms:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b3cee8774d5e871adb3a132e248863a3\asms-1.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.umeng.umsdk:asms:1.1.4] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b3cee8774d5e871adb3a132e248863a3\asms-1.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.umeng.umsdk:share-core:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\60a54272bfdbd82e148f1f89059d6485\share-core-7.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.umeng.umsdk:share-board:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17ac88625490b196165a3ba26ee32c35\share-board-7.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.umeng.umsdk:share-board:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\17ac88625490b196165a3ba26ee32c35\share-board-7.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff080518cb8d403852d52a4eaf8f371c\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ff080518cb8d403852d52a4eaf8f371c\animated-vector-drawable-25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8d95c424daf15139b52246df6f70f89\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d8d95c424daf15139b52246df6f70f89\support-vector-drawable-25.0.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a93179c036dd3b5a5af40c7f83e9cfac\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a93179c036dd3b5a5af40c7f83e9cfac\support-v4-25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9bc0be0a7cd6b281c790a4f8b26d2a5\recyclerview-v7-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a9bc0be0a7cd6b281c790a4f8b26d2a5\recyclerview-v7-24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3a1c56e262637f00ccd3b296a1f60ae6\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3a1c56e262637f00ccd3b296a1f60ae6\support-fragment-25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3190d85f3ee44a998f93982e76b9d4a4\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3190d85f3ee44a998f93982e76b9d4a4\support-core-ui-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7521d5ed3dab3badaad52b09bb2d6777\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7521d5ed3dab3badaad52b09bb2d6777\support-media-compat-25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\67a2f0134cfbdae966604a41af90f11e\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\67a2f0134cfbdae966604a41af90f11e\support-core-utils-25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f30c6719bf7f52b4b956862403db3ee\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5f30c6719bf7f52b4b956862403db3ee\support-compat-25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f02ae33d6e9b5c942f94bf1158b0566f\ijkplayer-java-0.7.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f02ae33d6e9b5c942f94bf1158b0566f\ijkplayer-java-0.7.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4ee257f2d2d430197d6528a7831430c0\ijkplayer-armv7a-0.7.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.8.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4ee257f2d2d430197d6528a7831430c0\ijkplayer-armv7a-0.7.8.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8939121e591853ac4d30c2ad187b451\DanmakuFlameMaster-0.6.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.6.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f8939121e591853ac4d30c2ad187b451\DanmakuFlameMaster-0.6.2\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f31cb847e5eaca7c5ae743abdaa22b1f\appcompat-v7-25.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\longya\src\main\AndroidManifest.xml
+uses-permission#android.permission.BATTERY_STATS
+ADDED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from [:playerview] C:\Users\Administrator\Documents\WeChat Files\wxid_ssv7fk2trojd21\FileStorage\File\2020-12\longya_release_code\longya_release\playerview\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-69
+activity#${applicationId}.wxapi.WXEntryActivity
+MERGED from [com.umeng.umsdk:share-wx:7.1.3] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\da10e6bdf37739559c76aa28dfc268bf\share-wx-7.1.3\AndroidManifest.xml:12:9-16:75

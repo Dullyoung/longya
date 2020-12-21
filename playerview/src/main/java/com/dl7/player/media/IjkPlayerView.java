@@ -2533,6 +2533,7 @@ public class IjkPlayerView extends FrameLayout implements View.OnClickListener {
         if (SDCardUtils.isAvailable()) {
             _createSaveDir(SDCardUtils.getRootPath() + File.separator + "IjkPlayView");
         }
+        mIvScreenshot.setVisibility(View.GONE);
     }
 
     /**

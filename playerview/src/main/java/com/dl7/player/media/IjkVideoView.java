@@ -19,6 +19,7 @@ package com.dl7.player.media;
 import android.animation.ValueAnimator;
 import android.annotation.TargetApi;
 import android.content.Context;
+import android.content.pm.ActivityInfo;
 import android.graphics.Bitmap;
 import android.graphics.Matrix;
 import android.media.AudioManager;
@@ -33,8 +34,10 @@ import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.MediaController;
+import android.widget.RelativeLayout;
 
 import java.io.File;
 import java.io.IOException;
@@ -554,7 +557,10 @@ public class IjkVideoView extends FrameLayout implements MediaController.MediaPl
                 seekTo(seekToPosition);
             }
             if (mVideoWidth != 0 && mVideoHeight != 0) {
-                //Log.i("@@@@", "video size: " + mVideoWidth +"/"+ mVideoHeight);
+
+//                Log.i("@@@@", "view size: " + getWidth() + "/" + getHeight());
+//                Log.i("@@@@", "video size: " + mVideoWidth +"/"+ mVideoHeight);
+
                 // REMOVED: getHolder().setFixedSize(mVideoWidth, mVideoHeight);
                 if (mRenderView != null) {
                     mRenderView.setVideoSize(mVideoWidth, mVideoHeight);
@@ -587,6 +593,17 @@ public class IjkVideoView extends FrameLayout implements MediaController.MediaPl
         }
     };
 
+    /**
+     * 重设 view 的宽高
+     */
+    public static void setViewLayoutParams(View view, int nWidth, int nHeight) {
+        ViewGroup.LayoutParams lp = view.getLayoutParams();
+        if (lp.height != nHeight || lp.width != nWidth) {
+            lp.width = nWidth;
+            lp.height = nHeight;
+            view.setLayoutParams(lp);
+        }
+    }
     /**
      * add，返回解码器
      * @return  解码器
